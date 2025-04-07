@@ -29,9 +29,9 @@ There are two ways to install:
 
 ### 📁 Manual `.unitypackage` Import
 
-    1. Go to the [Releases Page](https://github.com/hendrakid/com-whisper-devpanelwizard/releases/latest).
-    2. Download the latest `.unitypackage`.
-    3. In Unity: `Assets > Import Package > Custom Package` and select the downloaded file.
+1. Go to the [Releases Page](https://github.com/hendrakid/com-whisper-devpanelwizard/releases/latest).
+2. Download the latest `.unitypackage`.
+3. In Unity: `Assets > Import Package > Custom Package` and select the downloaded file.
 
 ---
 
