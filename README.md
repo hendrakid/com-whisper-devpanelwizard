@@ -126,7 +126,6 @@ public void Teleport(Vector3 position)
 Have suggestions, issues, or want to contribute?
 
 - 📬 [Open an Issue](https://github.com/hendrakid/com-whisper-devpanelwizard/issues)
-- 📧 your.email@example.com *(replace with your actual contact)*
 
 ---
 
