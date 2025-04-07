@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77e56d4e4e8fd2b438931f1003485de4, type: 3}
   m_Name: ActionInvokerSettings_New Tab_2eaec1f8
   m_EditorClassIdentifier: 
-  monitoredScripts: []
+  monitoredScripts:
+  - {fileID: 11500000, guid: 785b0433b8a53ef4393a96d777fa7eb4, type: 3}

@@ -16,4 +16,4 @@ MonoBehaviour:
   - executionType: 0
     tabName: New Tab
     contentType: 1
-    actionInvokerSettings: {fileID: 0}
+    actionInvokerSettings: {fileID: 11400000, guid: 9cc88ed0cc32e99419a4c0f64d78af9e, type: 2}
