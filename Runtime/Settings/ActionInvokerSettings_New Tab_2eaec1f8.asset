@@ -9,11 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7490ddb6033ec6343be678dc7ba6509f, type: 3}
-  m_Name: DevPanelTabsSettings
+  m_Script: {fileID: 11500000, guid: 77e56d4e4e8fd2b438931f1003485de4, type: 3}
+  m_Name: ActionInvokerSettings_New Tab_2eaec1f8
   m_EditorClassIdentifier: 
-  tabs:
-  - executionType: 0
-    tabName: New Tab
-    contentType: 1
-    actionInvokerSettings: {fileID: 0}
+  monitoredScripts: []

@@ -22,7 +22,6 @@ namespace com.whisper.devpanelwizard
 
         public static void Draw(DevPanelTab _devPanelTab)
         {
-            EditorGUILayout.HelpBox("ActionInvokerUI.", MessageType.Info);
             if (_devPanelTab == null)
             {
                 EditorGUILayout.HelpBox("No ActionInvokerSettings provided.", MessageType.Warning);
