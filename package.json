@@ -1,0 +1,13 @@
+{
+  "name": "com.whisper.devpanelwizard",
+  "version": "1.0.0",
+  "displayName": "Dev Panel Wizard",
+  "description": "A custom Unity dev/debugging panel with tabbed editor UI and runtime logic.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/hendrakid"
+  },
+  "keywords": ["debug", "editor", "tools", "unity"],
+  "type": "tool"
+}

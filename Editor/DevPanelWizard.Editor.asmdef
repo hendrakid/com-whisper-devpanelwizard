@@ -1,0 +1,17 @@
+{
+  "name": "DevPanelWizard.Editor",
+  "rootNamespace": "com.whisper.devpanelwizard",
+  "references": [
+    "DevPanelWizard.Runtime",
+    "UnityEditor"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
